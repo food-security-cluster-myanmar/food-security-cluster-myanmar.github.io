@@ -5,48 +5,37 @@ layout: default
 
 
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-3">
+<div class="col-sm-4">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fscluster.org/myanmar">
+![](img/Myanmar_cluster_blue.png)
 
 
-<a href = "https://www.dropbox.com/sh/hfgon5s13qin98b/AACmgu_uGrpWaAjWwJy9rnJRa?dl=0">
-![](img/logo_sean.png)
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:seanywng@gmail.com)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:info.myanmar@fscluster.org)
 
 </div>
-<div class="col-sm-9">
+<div class="col-sm-8">
 
-# **Sean Ng**
 
-### **Data Analysis in Humanitarian Settings**
+# **Myanmar Food Security Cluster**
 
-I am a Disaster Management Expert and Data Analyst with a strong track record of advisory services, quality assurance and effective programme management in large-scale Emergency, Recovery and National Development Programmes. I have worked in emergencies in Sri Lanka, China, Japan, Thailand, Philippines, Nepal, Myanmar, Bangladesh and Venezuela. 
+### **Reports and Analysis**
 
-I have more than 10 years of expertise in (according to approximate amount of time): 
-Analytics & Research [19.2%]; Data Processing [18.5%]; Policy & Planning [18.4%]; Leadership & Capacity Building [17.9%]; Quality Assurance [16.8%]; and Coordination & Negotiation [9.2%].
+An estimated 779,000 women, girls, boys, and men living in conflict-affected areas in Myanmar are vulnerable to severe food insecurity. The main humanitarian needs include economic and physical access, as well as availability of nutritious and diversified food at household and community levels.
 
-I am a committed advocate of data transparency and inter-agency sharing in humanitarian and development settings. 
+Long-standing conflict in Kachin and Shan, inter-communal tensions in Rakhine, and recurrent climate-related shocks continue to undermine the stability and availability of food supplies as well as physical and economic access to food.  
 
-This site hosts some of my R projects, such as: 
+This site hosts analysis and reports such as: 
 
 <br/>
 
-#### [Coverage and Gaps Analysis -- Multi-Cluster, Venezuela](https://seanywng.github.io/coverage_gaps_venezuela/)
+#### [Interactive Response Dashboard 2021](https://app.powerbi.com/view?r=eyJrIjoiYjIyNDc0OGItNjZhMy00ZjZmLTk0MTgtOTQyOWQ0ZDIyMDg2IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9)
 <br>
 
-#### [5W Cleaning and Reporting -- Education Cluster, Venezuela](https://seanywng.github.io/5W/)
+#### [Interactive HRP dashboard](https://seanywng.github.io/5W/)
 <br>
 
-And some links to past work (only PDFs available): 
+And some links to static products (only PDFs available): 
 
-#### [• A New Index of Refugee Protection 2018 -- a discussion note with Aldo Benini](http://aldo-benini.org/Level2/HumanitData/Benini_Ng__A_New_Protection_Index__180806.pdf)
-
-#### [• Lessons Learnt on Assessments from the Rohingya Refugee Response 2018](https://www.dropbox.com/home/Portfolio?preview=Lessons+Learnt+on+Assessments+180525_SN.pdf)
-
-#### [• Vulnerability in Myanmar 2017 -- Secondary Data Review, Countrywide](https://www.dropbox.com/home/Portfolio?preview=Vulnerability_in_Myanmar_HARP-MIMU_Jun2018_ENG_Print_version.pdf)
-
-#### [• Myanmar National Recovery Framework and Plan -- Floods and Landslides 2015](https://www.dropbox.com/home/Portfolio?preview=National+Recovery+Framework+Final-2.pdf)
-
+#### [• Partners' Presence Map September 2021](https://fscluster.org/myanmar/document/partners-presence-map-sep-2021)
 
