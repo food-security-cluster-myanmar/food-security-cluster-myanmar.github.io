@@ -35,7 +35,11 @@ This site hosts analysis and reports such as:
 #### [Interactive Response Dashboard 2021](https://app.powerbi.com/view?r=eyJrIjoiYjIyNDc0OGItNjZhMy00ZjZmLTk0MTgtOTQyOWQ0ZDIyMDg2IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9)
 <br>
 
-#### [Interactive HRP dashboard](https://seanywng.github.io/5W/)
+
+#### [Partners' survey -- 5Ws reporting preferences](https://food-security-cluster-myanmar.github.io/partner_reporting_preferences/)
+<br>
+
+#### [Github](https://github.com/food-security-cluster-myanmar)
 <br>
 
 And some links to static products (only PDFs available): 
