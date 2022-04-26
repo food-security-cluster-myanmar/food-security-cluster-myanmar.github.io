@@ -34,7 +34,7 @@ This site hosts analysis and reports such as:
 ###### [PDF version](https://www.dropbox.com/s/b1qhi1yskjvdclz/FSC_2021_5Ws_Report.pdf?dl=0)
 <br>
 
-##### [Understanding Conflict Dynamics in Myanmar: A Food Security Perspective](https://food-security-cluster-myanmar.github.io/exploratory-data-analysis-acled-fsc/)
+##### [Understanding Conflict Dynamics in Myanmar through Conflict and Incident Data: A Food Security Perspective](https://food-security-cluster-myanmar.github.io/exploratory-data-analysis-acled-fsc/)
 ###### [PDF version](https://www.dropbox.com/s/wsmn7callgr8dob/Understanding_Conflict_Dynamics_in_Myanmar_A_Food_Security_Perspective.pdf?dl=0)
 <br>
 
