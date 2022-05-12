@@ -31,7 +31,7 @@ This site hosts analysis and reports such as:
 <br>
 
 ##### [Report on the 2022/Q1 Food Security 5Ws](https://food-security-cluster-myanmar.github.io/fsc_5ws_first_quarter_2022/)
-###### [PDF version]()
+###### [PDF version](https://www.dropbox.com/s/ibswwmfhjpp9odh/fsc_2022_q1_5ws_report.pdf?dl=0)
 
 <br>
 
