@@ -1,5 +1,6 @@
 ---
 layout: default
+google_analytics: G-3QVZ7DFJMC
 ---
 
 
