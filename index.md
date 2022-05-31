@@ -65,6 +65,9 @@ This site hosts analysis and reports such as:
 ##### [Interactive Response Dashboard 2021](https://app.powerbi.com/view?r=eyJrIjoiYjIyNDc0OGItNjZhMy00ZjZmLTk0MTgtOTQyOWQ0ZDIyMDg2IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9)
 <br>
 
+##### [Presentation on Information Sharing Protocol for the ICCG](https://www.dropbox.com/scl/fi/vznb97d5wszyafr5n96mc/presentation_information_sharing_protocol_iccg.pptx?dl=0&rlkey=j8nctw4y8ys2zke3bwesd9t05)
+<br>
+
 ##### [Partners' survey -- 5Ws reporting preferences](https://food-security-cluster-myanmar.github.io/partner_reporting_preferences/)
 <br>
 
