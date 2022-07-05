@@ -40,8 +40,18 @@ This site hosts analysis and reports such as:
 
 <br>
 
+##### [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
+###### 1 June 2022. 
+
+<br>
+
+##### [Understanding Conflict Dynamics in Myanmar through Conflict and Incident Data: A Food Security Perspective](https://food-security-cluster-myanmar.github.io/exploratory-data-analysis-acled-fsc/)
+###### Updated 1 June 2022. 
+
+<br>
+
 ##### [Partners' Presence Map Q1 2022](https://www.dropbox.com/s/sz8esrolanimdke/FSC%20Myanmar%20Partners%27%20Presence%20and%20Gap%20Analysis%20Maps%20_Jan%20to%20Mar%202022.pdf?dl=0)
-###### Only PDF available
+###### Only PDF available. 4 May 2022. 
 <br>
 
 ##### [Interactive Response Dashboard Q1 2022](https://app.powerbi.com/view?r=eyJrIjoiNmExNTQ4ZWUtNWQxNC00ZTM1LWFlZTYtMTk3YTNiNzNhYzM0IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9)
@@ -60,9 +70,6 @@ This site hosts analysis and reports such as:
 ###### [PDF version](https://www.dropbox.com/s/b1qhi1yskjvdclz/FSC_2021_5Ws_Report.pdf?dl=0)
 <br>
 
-##### [Understanding Conflict Dynamics in Myanmar through Conflict and Incident Data: A Food Security Perspective](https://food-security-cluster-myanmar.github.io/exploratory-data-analysis-acled-fsc/)
-###### [PDF version](https://www.dropbox.com/s/wsmn7callgr8dob/Understanding_Conflict_Dynamics_in_Myanmar_A_Food_Security_Perspective.pdf?dl=0)
-<br>
 
 ##### [Food Security Analysis -- March 2022](https://www.dropbox.com/s/ky7489xskt5adbc/FSC_Food_Security_Analysis_March_2022.pdf?dl=0)
 ###### Only PDF available
