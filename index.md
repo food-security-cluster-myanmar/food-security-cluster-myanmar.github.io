@@ -40,6 +40,11 @@ This site hosts analysis and reports such as:
 
 <br>
 
+##### [Food Security Workshop Materials](https://food-security-cluster-myanmar.github.io/fsc_workshop_materials/)
+###### 29-30 June 2022. 
+
+<br>
+
 ##### [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 ###### 1 June 2022. 
 
