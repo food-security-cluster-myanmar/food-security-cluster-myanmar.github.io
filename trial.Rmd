@@ -63,3 +63,17 @@ $("#pageContent").removeClass("standardPadding");
 </div>
 
 <!--/html_preserve-->
+
+
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-4">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://fscluster.org/myanmar">
+![](img/Myanmar_cluster_blue.png)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:info.myanmar@fscluster.org)
+
+</div>
+<div class="col-sm-8">
