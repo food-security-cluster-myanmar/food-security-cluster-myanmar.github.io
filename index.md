@@ -28,8 +28,7 @@ output:
 </script>
 
 
-[![./img/Myanmar_cluster_blue.png](./img/Myanmar_cluster_blue.png)](mailto:<Food Security Cluster Myanmar>info.myanmar@fscluster.org&subject=Myanmar%20humanitarian%20data){width=50%}
-
+[![./img/Myanmar_cluster_blue.png](./img/Myanmar_cluster_blue.png)](mailto:<FSC Myanmar>info.myanmar@fscluster.org?cc=aungko.latt@wfp.org&subject=Myanmar%20humanitarian%20data){width=50%}
 <br><br><br>
 
 ## **Reports and Analysis**
