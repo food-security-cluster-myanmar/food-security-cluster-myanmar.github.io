@@ -42,12 +42,6 @@ This site hosts analysis and reports such as:
 
 <br>
 
-## [2022 Food Security 5Ws Mid-year Report](https://food-security-cluster-myanmar.github.io/fsc_5ws_second_quarter_2022/)
-
-[![./img/activity_facet_line.png](./img/activity_facet_line.png)](https://food-security-cluster-myanmar.github.io/fsc_5ws_second_quarter_2022/){width=50%}
-
-<br><br><br>
-
 ## [Interactive Response Dashboard Q1 2022](https://app.powerbi.com/view?r=eyJrIjoiNGM0NGFlNDAtNWFhOS00ZDM4LTllODEtNDI2MmQ0ZDI5ODM3IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9)
 
 [![./img/dashboard_Q1_2022.png](./img/dashboard_Q1_2022.png)](https://app.powerbi.com/view?r=eyJrIjoiNGM0NGFlNDAtNWFhOS00ZDM4LTllODEtNDI2MmQ0ZDI5ODM3IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9){width=50%}
