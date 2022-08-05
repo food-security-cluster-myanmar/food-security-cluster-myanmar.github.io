@@ -31,14 +31,27 @@ output:
 [![./img/Myanmar_cluster_blue.png](./img/Myanmar_cluster_blue.png)](mailto:<FSC Myanmar>info.myanmar@fscluster.org?cc=aungko.latt@wfp.org&subject=Myanmar%20humanitarian%20data){width=50%}
 <br><br><br>
 
-## **Reports and Analysis**
-
-The people of Myanmar are facing an unprecedented political, socioeconomic, human rights and humanitarian crisis with needs escalating dramatically since the military takeover and a severe third wave fo COVID-19 in 2021. The expansion of armed conflict into and formation of new armed elements in new areas is driving increased displacement and has exacerbated and generated new protection and assistance needs. 
+The people of Myanmar are facing an unprecedented political, socioeconomic, human rights and humanitarian crisis with needs escalating dramatically since the military takeover and a severe third wave fo COVID-19 in 2021. The expansion of armed conflict into and formation of new armed elements in new areas is driving increased displacement and has exacerbated and generated new protection and food security needs. 
 
 The economic and political turmoil of 2021 is projected to have driven almost half the population into poverty. Increasing numbers of vulnerable people are exhausting their coping capacity and are now slipping into humanitarian need. Price hikes, COVID-19 movement restrictions and ongoing insecurity have forced the most vulnerable to resort to crisis or emergency coping strategies to buy food and other basic supplies. Open conflict, inter-communal tensions and recurrent climate-related shocks continue to undermine the stability and availability of food supplies as well as physical and economic access to food. 
- 
 
-This site hosts analysis and reports, in chronological order: 
+<br><br><br>
+
+## **Next Coordination Meeting** 
+
+**9 August 2022 - 1530 YGN time**
+
+[Meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjZlYjZiZTYtOTFlYy00M2FiLWJlMjEtZWVhYjBhOWMyZDk0%40thread.v2/0?context=%7b%22Tid%22%3a%22462ad9ae-d7d9-4206-b874-71b1e079776f%22%2c%22Oid%22%3a%22a346b3e9-9aa3-4d32-80a7-a6ebf389b7e5%22%7d)
+
+Meeting ID: 361 260 075 154  
+
+Passcode: zZojan
+
+<br><br><br>
+
+## **Reports and Analysis**
+
+This site hosts analysis and reports, in reverse chronological order: 
 
 <br>
 
