@@ -38,7 +38,7 @@ The people of Myanmar are facing an unprecedented political, socioeconomic, huma
 The economic and political turmoil of 2021 is projected to have driven almost half the population into poverty. Increasing numbers of vulnerable people are exhausting their coping capacity and are now slipping into humanitarian need. Price hikes, COVID-19 movement restrictions and ongoing insecurity have forced the most vulnerable to resort to crisis or emergency coping strategies to buy food and other basic supplies. Open conflict, inter-communal tensions and recurrent climate-related shocks continue to undermine the stability and availability of food supplies as well as physical and economic access to food. 
  
 
-This site hosts analysis and reports such as:
+This site hosts analysis and reports, in chronological order: 
 
 <br>
 
@@ -141,7 +141,7 @@ Only PDF available
 <br><br><br>
 
 
-## [Food Security Cluster Myanmar Website](https://fscluster.org/myanmar)
+## [Global Food Security Cluster](https://fscluster.org/myanmar)
 
 [![./img/gfsc_myanmar.png](./img/gfsc_myanmar.png)](https://fscluster.org/myanmar){width=50%}
 
@@ -149,7 +149,7 @@ Only PDF available
 
 
 
-## [FSC Myanmar Github](https://github.com/food-security-cluster-myanmar)
+## [Food Security Cluster Myanmar](https://github.com/food-security-cluster-myanmar)
 
 
 [![./img/github.png](./img/github.png)](https://github.com/food-security-cluster-myanmar){width=50%}
