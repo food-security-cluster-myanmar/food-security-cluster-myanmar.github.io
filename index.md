@@ -52,6 +52,8 @@ This site hosts analysis and reports, in reverse chronological order:
 
 ## [16. Report on the 2022/Q2 5Ws](https://food-security-cluster-myanmar.github.io/fsc_5ws_second_quarter_2022/)
 
+[PDF version](https://www.dropbox.com/s/gi08lxnhd67s6a1/q2_5ws_report_pdf.pdf?dl=0)
+
 [![./img/q2_2022.png](./img/q2_2022.png)](https://food-security-cluster-myanmar.github.io/fsc_5ws_second_quarter_2022/){width=50%}
 
 <br><br><br>
