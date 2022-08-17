@@ -40,21 +40,6 @@ The economic and political turmoil of 2021 is projected to have driven almost ha
 
 # **Announcements**
 
-<br>
-
-## Presentation of Q2 2022 5Ws
-
-**12 August 2022 - 1000 YGN time**
-
-[Meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzVmZTM3NWQtNzQ1Mi00YWU5LTkwYTktZTlmNzU2Yjc5OGEy%40thread.v2/0?context=%7b%22Tid%22%3a%22163ac468-abb8-44d0-81fd-d9db15e3af96%22%2c%22Oid%22%3a%226ad50894-3e07-43cb-9fa2-16f0c3c8321a%22%7d)
-
-Meeting ID: 379 505 234 201 
-
-Passcode: zqJ2m3
-
-<br><br><br>
-
-
 ## Next Coordination Meeting 
 
 **13 September 2022 - 1530 YGN time**
@@ -196,7 +181,7 @@ Only PDF available
 
 
 
-# **[Food Security Cluster Myanmar](https://github.com/food-security-cluster-myanmar)**
+# **[Myanmar Food Security Cluster](https://github.com/food-security-cluster-myanmar)**
 
 
 [![./img/github.png](./img/github.png)](https://github.com/food-security-cluster-myanmar){width=50%}
