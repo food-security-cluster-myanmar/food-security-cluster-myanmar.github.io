@@ -36,6 +36,10 @@ The people of Myanmar are facing an unprecedented political, socioeconomic, huma
 
 The economic and political turmoil of 2021 is projected to have driven almost half the population into poverty. Increasing numbers of vulnerable people are exhausting their coping capacity and are now slipping into humanitarian need. Price hikes, COVID-19 movement restrictions and ongoing insecurity have forced the most vulnerable to resort to crisis or emergency coping strategies to buy food and other basic supplies. Open conflict, inter-communal tensions and recurrent climate-related shocks continue to undermine the stability and availability of food supplies as well as physical and economic access to food. 
 
+<br>
+
+[Contact us](mailto:<FSC Myanmar>info.myanmar@fscluster.org?cc=aungko.latt@wfp.org&subject=Myanmar%20humanitarian%20data)
+
 <br><br><br>
 
 # **Announcements**
@@ -173,6 +177,53 @@ Only PDF available
 
 # **Open Data**
 
+## People in Need and Targets 
+
+Humanitarian response plan PIN and targets for the food security cluster at Admin level 3 (township). [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/2022%20HPC%20-%20PiN%20and%20PT.xlsx). 
+
+<br>
+
+## Shapefiles 
+
+MIMU shapefiles. Administrative levels 1 and 3 shapefiles. Public. Links for [Admin level 1](https://geonode.themimu.info/layers/geonode%3Ammr_polbnda2_adm1_mimu_250k) and [Admin level 3](https://geonode.themimu.info/layers/geonode%3Ammr_polbnda_adm3_mimu_250k). 
+
+<br>
+
+## 2022 5Ws
+
+2022 5Ws as of 2022-06-30. Public dataset at Admin level 3 (township). [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/master/data/fsc_5ws_q2_2022_public.csv). 
+
+<br>
+
+## 2021 5Ws 
+
+Full 2021 5Ws. Public dataset at Admin level 3 (township). [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/fsc_5ws_2021_public.csv). 
+
+<br>
+
+## ACLED
+
+Extracted 2022-06-06. Conflict reference table, at incident level. Read into .csv for public sharing. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/exploratory-data-analysis-acled-fsc/master/data/acled_20220606.csv). 
+
+<br>
+
+## ACLED Actors 
+
+Extracted 2022-06-06. Conflict reference table -- long table, by incident and actor. Public. [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/actors_20220606.csv).
+
+<br>
+
+## Conflict Scores and Township Clustering
+
+Output of [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/). Public dataset at Admin level 3. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/master/data/conflict_score2.csv).
+
+<br><br><br>
+
+## Vulnerability in Myanmar
+
+Census reference dataset. Dataset used for the creation of the MIMU-HARP Vulnerability Index based on 2015 Census data. Public. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/exploratory-data-analysis-acled-fsc/master/data/vulmmr.csv). Original report [here](http://themimu.info/vulnerability-in-myanmar).
+
+<br>
 
 
 
