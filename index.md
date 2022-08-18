@@ -250,6 +250,12 @@ Extracted 2022-06-06. Conflict reference table -- long table, by incident and ac
 
 <br>
 
+### Township-level Reference Dataset
+
+General purpose township-level dataset, includes multidimensional vulnerability updated to 2019. Good first dataset for new partners. [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/general_township.csv). 
+
+<br>
+
 ### Vulnerability in Myanmar
 
 Census reference dataset. Dataset used for the creation of the MIMU-HARP Vulnerability Index based on 2015 Census data. Public. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/exploratory-data-analysis-acled-fsc/master/data/vulmmr.csv). Original report [here](http://themimu.info/vulnerability-in-myanmar).
