@@ -42,7 +42,7 @@ The economic and political turmoil of 2021 is projected to have driven almost ha
 
 <br><br><br>
 
-# **1. Announcements**
+# **Announcements**
 
 ## Next Coordination Meeting 
 
@@ -63,7 +63,7 @@ The economic and political turmoil of 2021 is projected to have driven almost ha
 
 <br><br><br>
 
-# **2. 5W Reports**
+# **5W Reports**
 
 <br>
 
@@ -97,7 +97,7 @@ The economic and political turmoil of 2021 is projected to have driven almost ha
 
 <br><br><br>
 
-# **3. Conflict and Prioritisation**
+# **Conflict and Prioritisation**
 
 <br>
 
@@ -120,7 +120,7 @@ Updated 1 June 2022. Exploratory data analysis of the Armed Conflict Location an
 
 <br><br><br>
 
-# **4. Response Dashboards**
+# **Response Dashboards**
 
 <br>
 
@@ -144,7 +144,7 @@ Updated 1 June 2022. Exploratory data analysis of the Armed Conflict Location an
 
 <br><br><br>
 
-# **5. Partners' Presence Maps**
+# **Partners' Presence Maps**
 
 <br>
 
@@ -163,7 +163,7 @@ Only PDF available
 
 <br><br><br>
 
-# **6. Miscellaneous**
+# **Miscellaneous**
 
 <br>
 
@@ -199,7 +199,7 @@ Only PDF available. Update on food security situation in Myanmar.
 <br><br><br>
 
 
-# **7. Open Data**
+# **Open Data**
 
 <br>
 
