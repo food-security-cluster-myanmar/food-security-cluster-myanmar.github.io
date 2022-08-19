@@ -107,7 +107,7 @@ The economic and political turmoil of 2021 is projected to have driven almost ha
 <br>
 
 ### **[Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)**
-1 June 2022. Technical document on the clustering of townships according to multidimensional vulnerability and conflict. 
+1 June 2022. Technical document on the clustering of townships into 5 groups according to multidimensional vulnerability and conflict. 
 
 [![./img/township_prioritisation.png](./img/township_prioritisation.png)](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/){width=50%}
 
