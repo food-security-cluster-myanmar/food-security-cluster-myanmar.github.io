@@ -55,10 +55,15 @@ The economic and political turmoil of 2021 is projected to have driven almost ha
 **[* Southeast Myanmar Response Snapshot](https://app.powerbi.com/view?r=eyJrIjoiODg2NGE1NWItNGU5Zi00NGZhLTgwMzQtZTEwYjg2NzhlZmQzIiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9).**
 18 August 2022. Interactive dashboard of food security cluster coverage in townships in Southeast Myanmar. 
 
-**[* State maps comparing prioritisation and beneficiaries reached](https://github.com/food-security-cluster-myanmar/mmr_township_prioritisation/tree/main/plots).**
-16 August 2022. Link directs to folder with a .png for each state/region. Click on the desired state, then click the download button. Maps are not meant to be viewed online. Supplemental plots to the technical document on [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/). 
+<br>
 
+**[* State Maps comparing Prioritisation and Beneficiaries reached](https://github.com/food-security-cluster-myanmar/mmr_township_prioritisation/tree/main/plots).**
+16 August 2022. Link directs to folder with a .png for each state/region. Click on the desired state, then click the download button. Maps are *not* meant to be viewed online. Supplemental plots to the technical document on [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/). 
 
+<br>
+
+**[* Interactive Response Dashboard Q2 2022](https://app.powerbi.com/view?r=eyJrIjoiNDZhN2U5OWQtYjE5MC00MzY2LWI5NmQtZjdlNTU3YzFjNTU2IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9).**
+22 July 2022. Interactive response dashboard. 
 
 
 <br><br><br>
@@ -127,6 +132,12 @@ Updated 1 June 2022. Exploratory data analysis of the Armed Conflict Location an
 ### **[Southeast Myanmar Response Snapshot](https://app.powerbi.com/view?r=eyJrIjoiODg2NGE1NWItNGU5Zi00NGZhLTgwMzQtZTEwYjg2NzhlZmQzIiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9)**
 
 [![./img/southeast_myanmar_response_snapshot.png](./img/southeast_myanmar_response_snapshot.png)](https://app.powerbi.com/view?r=eyJrIjoiODg2NGE1NWItNGU5Zi00NGZhLTgwMzQtZTEwYjg2NzhlZmQzIiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9){width=50%}
+
+<br><br><br>
+
+### **[Dashboard Q2 2022](https://app.powerbi.com/view?r=eyJrIjoiNDZhN2U5OWQtYjE5MC00MzY2LWI5NmQtZjdlNTU3YzFjNTU2IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9)**
+
+[![./img/dashboard_Q2_2022.png](./img/dashboard_Q2_2022.png)](https://app.powerbi.com/view?r=eyJrIjoiNDZhN2U5OWQtYjE5MC00MzY2LWI5NmQtZjdlNTU3YzFjNTU2IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9){width=50%}
 
 <br><br><br>
 
@@ -212,11 +223,6 @@ Current policy on information and data sharing. Approved by the ICCG. [Link](htt
 
 Humanitarian response plan PIN and targets for the food security cluster at Admin level 3 (township). [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/2022%20HPC%20-%20PiN%20and%20PT.xlsx). 
 
-<br>
-
-### Shapefiles 
-
-MIMU shapefiles. Administrative levels 1 and 3 shapefiles. Public. Links for [Admin level 1](https://geonode.themimu.info/layers/geonode%3Ammr_polbnda2_adm1_mimu_250k) and [Admin level 3](https://geonode.themimu.info/layers/geonode%3Ammr_polbnda_adm3_mimu_250k). 
 
 <br>
 
@@ -259,6 +265,12 @@ General purpose township-level dataset, includes multidimensional vulnerability 
 ### Vulnerability in Myanmar
 
 Census reference dataset. Dataset used for the creation of the MIMU-HARP Vulnerability Index based on 2015 Census data. Public. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/exploratory-data-analysis-acled-fsc/master/data/vulmmr.csv). Original report [here](http://themimu.info/vulnerability-in-myanmar).
+
+<br>
+
+### Shapefiles 
+
+MIMU shapefiles. Administrative level 1 and 3 shapefiles. Public. Links for [Admin level 1](https://geonode.themimu.info/layers/geonode%3Ammr_polbnda2_adm1_mimu_250k) and [Admin level 3](https://geonode.themimu.info/layers/geonode%3Ammr_polbnda_adm3_mimu_250k). 
 
 <br><br><br>
 
