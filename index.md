@@ -58,7 +58,7 @@ The economic and political turmoil of 2021 is projected to have driven almost ha
 <br>
 
 **[* State Maps comparing Prioritisation and Beneficiaries reached](https://github.com/food-security-cluster-myanmar/mmr_township_prioritisation/tree/main/plots).**
-16 August 2022. Link directs to folder with a .png for each state/region. Click on the desired state, then click the download button. Maps are *not* meant to be viewed online. Supplemental plots to the technical document on [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/). 
+16 August 2022. Link directs to folder with a .png for each state/region. Click on the desired state, then click the download button. Maps are **not** meant to be viewed online. Supplemental plots to the technical document on [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/). 
 
 <br>
 
@@ -114,7 +114,7 @@ The economic and political turmoil of 2021 is projected to have driven almost ha
 <br>
 
 [Supplemental state/regions maps](https://github.com/food-security-cluster-myanmar/mmr_township_prioritisation/tree/main/plots).
-Link directs to folder with a .png for each state/region. Click on the desired state, then click the download button. Maps are not meant to be viewed online.
+Link directs to folder with a .png for each state/region. Click on the desired state, then click the download button. Maps are **not** meant to be viewed online.
 
 <br><br><br>
 
