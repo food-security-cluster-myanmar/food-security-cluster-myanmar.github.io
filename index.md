@@ -114,7 +114,7 @@ The cost of the basic food basket has increased by 34% compared to last year. 46
 <br>
 
 [Supplemental state/regions maps](https://github.com/food-security-cluster-myanmar/mmr_township_prioritisation/tree/main/plots).
-Link directs to folder with a .png for each state/region. Click on the desired state, then click the download button. Maps are **not** meant to be viewed online.
+Link directs to folder with a .png for each state/region. Click on the desired state, then click the **download** button. Maps are **not** meant to be viewed online.
 
 <br><br><br>
 
