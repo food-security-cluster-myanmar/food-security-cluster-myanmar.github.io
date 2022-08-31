@@ -32,9 +32,9 @@ output:
 [![./img/Myanmar_cluster_blue.png](./img/Myanmar_cluster_blue.png)](mailto:<FSC Myanmar>info.myanmar@fscluster.org?cc=aungko.latt@wfp.org&subject=Myanmar%20humanitarian%20data){width=50%}
 <br><br><br>
 
-The people of Myanmar are facing an unprecedented political, socioeconomic, human rights and humanitarian crisis with needs escalating dramatically since the military takeover and a severe third wave fo COVID-19 in 2021. The expansion of armed conflict into and formation of new armed elements in new areas is driving increased displacement and has exacerbated and generated new protection and food security needs. 
+Armed clashes between the Myanmar Armed Forces and People's Defense Forces and Ethnic Armed Organisations have continued unabated, with the use of heavy weapons, airstrikes and artillery. There have been 20,395 conflict fatalities since the February 2021 coup and almost 1,000,000 people have been displaced.  
 
-The economic and political turmoil of 2021 is projected to have driven almost half the population into poverty. Increasing numbers of vulnerable people are exhausting their coping capacity and are now slipping into humanitarian need. Price hikes, COVID-19 movement restrictions and ongoing insecurity have forced the most vulnerable to resort to crisis or emergency coping strategies to buy food and other basic supplies. Open conflict, inter-communal tensions and recurrent climate-related shocks continue to undermine the stability and availability of food supplies as well as physical and economic access to food. 
+The cost of the basic food basket has increased by 34% compared to last year. 46% of the population is estimated to be living in poverty. To address this unprecedented situation, humanitarian actors in Myanmar have prepared a [Humanitarian Response Plan for 2022](https://reliefweb.int/sites/reliefweb.int/files/resources/mmr_humanitarian_response_plan_2022-final.pdf), requesting USD 826 million in order to reach 6.2 million people in need of life-saving support. 
 
 <br>
 
