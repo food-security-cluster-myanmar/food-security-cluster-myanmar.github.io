@@ -214,57 +214,57 @@ Only PDF available. Update on food security situation in Myanmar.
 
 <br>
 
-### Information sharing protocol
-Current policy on information and data sharing. Approved by the ICCG. [Link](https://www.dropbox.com/s/11kv6cvnbvx9hbe/information_sharing_protocol_220323.pdf?dl=0). 
+## Information Sharing Protocol
+Current policy on information and data sharing. Approved by the ICCG. [Link](https://www.dropbox.com/s/11kv6cvnbvx9hbe/information_sharing_protocol_220323.pdf?dl=0). PDF document. 
 
 <br>
 
 ### People in Need and Targets 
 
-Humanitarian response plan PIN and targets for the food security cluster at Admin level 3 (township). [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/2022%20HPC%20-%20PiN%20and%20PT.xlsx). 
+Humanitarian response plan PIN and targets for the food security cluster at Admin level 3 (township). [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/2022%20HPC%20-%20PiN%20and%20PT.xlsx). Excel file. 
 
 
 <br>
 
 ### 2022 5Ws
 
-2022 5Ws as of 2022-06-30. Public dataset at Admin level 3 (township). [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/master/data/fsc_5ws_q2_2022_public.csv). 
+2022 5Ws as of 2022-06-30. Public dataset at Admin level 3 (township). [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/master/data/fsc_5ws_q2_2022_public.csv). If using text editor or spreadsheet software, *ctrl + a* and *copy* and *paste*. 
 
 <br>
 
 ### 2021 5Ws 
 
-Full 2021 5Ws. Public dataset at Admin level 3 (township). [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/fsc_5ws_2021_public.csv). 
+Full 2021 5Ws. Public dataset at Admin level 3 (township). [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/fsc_5ws_2021_public.csv). If using text editor or spreadsheet software, *ctrl + a* and *copy* and *paste*. 
 
 <br>
 
 ### ACLED
 
-Extracted 2022-06-06. Conflict reference table, at incident level. Read into .csv for public sharing. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/exploratory-data-analysis-acled-fsc/master/data/acled_20220606.csv). 
+Extracted 2022-06-06. Conflict reference table, at incident level. Read into .csv for public sharing. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/exploratory-data-analysis-acled-fsc/master/data/acled_20220606.csv). If using text editor or spreadsheet software, *ctrl + a* and *copy* and *paste*. 
 
 <br>
 
 ### ACLED Actors 
 
-Extracted 2022-06-06. Conflict reference table -- long table, by incident and actor. Public. [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/actors_20220606.csv).
+Extracted 2022-06-06. Conflict reference table -- long table, by incident and actor. Public. [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/actors_20220606.csv). If using text editor or spreadsheet software, *ctrl + a* and *copy* and *paste*. 
 
 <br>
 
 ### Conflict Scores and Township Clustering
 
-[Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/master/data/conflict_score2.csv). Public dataset at Admin level 3. Output of [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/). 
+[Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/master/data/conflict_score2.csv). Public dataset at Admin level 3. Output of [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/). If using text editor or spreadsheet software, *ctrl + a* and *copy* and *paste*. 
 
 <br>
 
 ### Township-level Reference Dataset
 
-General purpose township-level dataset, includes multidimensional vulnerability updated to 2019. Good first dataset for new partners. [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/general_township.csv). 
+General purpose township-level dataset, includes multidimensional vulnerability updated to 2019. Good first dataset for new partners. [Link](https://github.com/food-security-cluster-myanmar/food-security-cluster-myanmar.github.io/raw/master/data/general_township.csv). If using text editor or spreadsheet software, *ctrl + a* and *copy* and *paste*. 
 
 <br>
 
 ### Vulnerability in Myanmar
 
-Census reference dataset. Dataset used for the creation of the MIMU-HARP Vulnerability Index based on 2015 Census data. Public. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/exploratory-data-analysis-acled-fsc/master/data/vulmmr.csv). Original report [here](http://themimu.info/vulnerability-in-myanmar).
+Census reference dataset. Dataset used for the creation of the MIMU-HARP Vulnerability Index based on 2015 Census data. Public. [Link](https://raw.githubusercontent.com/food-security-cluster-myanmar/exploratory-data-analysis-acled-fsc/master/data/vulmmr.csv). If using text editor or spreadsheet software, *ctrl + a* and *copy* and *paste*. Original report [here](http://themimu.info/vulnerability-in-myanmar).
 
 <br>
 
