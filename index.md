@@ -46,11 +46,18 @@ The cost of the basic food basket has increased by 34% compared to last year. 46
 
 ## Next Coordination Meeting 
 
-**13 September 2022 - 1530 YGN time**
+**13 September 2022 - 1530-1730 YGN time**
+
+**[Meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWRhMTc2NzEtZDE0My00ZDA0LThjNjgtMzE1OTBkYmExMTcw%40thread.v2/0?context=%7b%22Tid%22%3a%22462ad9ae-d7d9-4206-b874-71b1e079776f%22%2c%22Oid%22%3a%22e2215e6a-ba21-40f3-9b3f-6aafcd396e8a%22%7d)**
 
 <br>
 
 ## New releases
+
+**[* 5Ws Report July 2022](https://food-security-cluster-myanmar.github.io/fsc_5ws_jul_2022/).**
+01 September 2022. Monthly report on July data reported on August 15 2022. 
+
+<br>
 
 **[* Southeast Myanmar Response Snapshot](https://app.powerbi.com/view?r=eyJrIjoiODg2NGE1NWItNGU5Zi00NGZhLTgwMzQtZTEwYjg2NzhlZmQzIiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9).**
 18 August 2022. Interactive dashboard of food security cluster coverage in townships in Southeast Myanmar. 
@@ -60,17 +67,20 @@ The cost of the basic food basket has increased by 34% compared to last year. 46
 **[* State Maps comparing Prioritisation and Beneficiaries reached](https://github.com/food-security-cluster-myanmar/mmr_township_prioritisation/tree/main/plots).**
 16 August 2022. Link directs to folder with a .png for each state/region. Click on the desired state, then click the download button. Maps are **not** meant to be viewed online. Supplemental plots to the technical document on [Township Prioritisation](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/). 
 
-<br>
-
-**[* Interactive Response Dashboard Q2 2022](https://app.powerbi.com/view?r=eyJrIjoiNDZhN2U5OWQtYjE5MC00MzY2LWI5NmQtZjdlNTU3YzFjNTU2IiwidCI6IjQ2MmFkOWFlLWQ3ZDktNDIwNi1iODc0LTcxYjFlMDc5Nzc2ZiIsImMiOjh9).**
-22 July 2022. Interactive response dashboard. 
-
 
 <br><br><br>
 
 # **5W Reports**
 
 <br>
+
+### **[July 2022 5Ws Report](https://food-security-cluster-myanmar.github.io/fsc_5ws_jul_2022/)**
+
+[![./img/q2_2022.png](./img/5ws_jul_2022.png)](https://food-security-cluster-myanmar.github.io/fsc_5ws_jul_2022/){width=50%}
+[PDF version](https://github.com/food-security-cluster-myanmar/fsc_5ws_jul_2022/raw/main/fsc_5ws_jul_2022_pdf.pdf)
+
+<br><br><br>
+
 
 ### **[Q2 2022 5Ws Report](https://food-security-cluster-myanmar.github.io/fsc_5ws_second_quarter_2022/)**
 
