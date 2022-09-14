@@ -46,9 +46,7 @@ The cost of the basic food basket has increased by 34% compared to last year. 46
 
 ## Next Coordination Meeting 
 
-**13 September 2022 - 1530-1730 YGN time**
-
-**[Meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWRhMTc2NzEtZDE0My00ZDA0LThjNjgtMzE1OTBkYmExMTcw%40thread.v2/0?context=%7b%22Tid%22%3a%22462ad9ae-d7d9-4206-b874-71b1e079776f%22%2c%22Oid%22%3a%22e2215e6a-ba21-40f3-9b3f-6aafcd396e8a%22%7d)**
+**11 October 2022 - 1530-1730 YGN time**
 
 <br>
 
