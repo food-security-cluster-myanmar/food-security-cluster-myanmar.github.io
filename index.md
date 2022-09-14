@@ -50,6 +50,12 @@ The cost of the basic food basket has increased by 34% compared to last year. 46
 
 <br>
 
+Interim Food Security Coordinator 
+**[Mohie Alwash](mohie.alwahsh@wfp.org)**<br> 
+mohie.alwahsh@wfp.org
+
+<br>
+
 ## New releases
 
 **[* 5Ws Report July 2022](https://food-security-cluster-myanmar.github.io/fsc_5ws_jul_2022/).**
