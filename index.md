@@ -46,13 +46,7 @@ The cost of the basic food basket has increased by 34% compared to last year. 46
 
 ## Next Coordination Meeting 
 
-**11 October 2022 - 1530-1730 YGN time**
-
-<br>
-
-Interim Food Security Coordinator 
-**[Mohie Alwash](mohie.alwahsh@wfp.org)**<br> 
-mohie.alwahsh@wfp.org
+**13 December 2022 - 1530-1730 YGN time**
 
 <br>
 
